@@ -1,0 +1,10 @@
+{
+  "name": "calculadora-template-sample",
+  "version": "1.0.0",
+  "repository": "git@github.com:profalves/calculadora-template-sample.git",
+  "author": "fernando predes <fernando_predes@hotmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
